@@ -1,3 +1,4 @@
+
 const mega = require("megajs");
 let email = 'anayatbot207@gmail.com.com' //oyage mega.nz acount eke email eka
 let pw = 'anayatbot207@gmail.com.com' //oyage mega.nz acount eke password eka
