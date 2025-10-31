@@ -4,12 +4,12 @@
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
 "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ANAYAT-AI",
-    "stop": "pm2 stop ANAYAT-AI",
-    "restart": "pm2 restart ANAYAT-AI"
+    "start": "pm2 start index.js --deep-monitoring --attach --name QADEER-MD",
+    "stop": "pm2 stop QADEER-MD",
+    "restart": "pm2 restart QADEER-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:nstar-y/bail",
+"@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-bail",
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
